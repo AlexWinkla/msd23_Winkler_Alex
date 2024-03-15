@@ -1,4 +1,4 @@
-# Hangman
+s# Hangman
 ***
 Hangman implemented in Java
 
@@ -50,6 +50,8 @@ i.e. no special characters or umlauts
 
 - Email: [alexander.winkler@edu.fh-joanneum.at](mailto:alexander.winkler@edu.fh-joanneum.at)
 - Telegram: [t.me/AlexWinkler](t.me/AlexWinkler)
+- GitHub: [github.com/AlexWinkla](https://github.com/AlexWinkla)
+- current University: [FH Joanneum](https://www.fh-joanneum.at)
 
 
 #### If you want to see more of my works :)
