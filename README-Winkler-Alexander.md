@@ -54,4 +54,12 @@ i.e. no special characters or umlauts
 
 #### If you want to see more of my works :)
 
-* [Exercise1](./exercise1.md)
+
+> #### Markdown-Cheatsheet:
+> This file shows the Syntax of a Markdown sheet and how to use it.
+> * [Exercise1](./exercise1.md)
+
+
+> #### GitHub-Cheatsheet:
+> This file shows how to use Git-Hub, and what commands are used for git
+> * [Exercise2](exercise2.md)
