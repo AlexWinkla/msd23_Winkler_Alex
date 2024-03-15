@@ -16,10 +16,10 @@ This text is written in _italic_, and now in **bold**
 <fieldset style="text-align: center;"> You can also use some HTML- and CSS-tags in your 
 Markdown-Sheet, to make your Markdown-Sheet even fancier</fieldset>
 
-![KTM](./images/ex1_2.jpg)
+![KTM](./resources/images/ex1_2.jpg)
 
 
-##### Don't click on this [link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)!
+##### Don't click on this [link](ttps://www.youtube.com/watch?v=dQw4w9WgXcQ)!
 
 ---
 

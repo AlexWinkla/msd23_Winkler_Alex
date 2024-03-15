@@ -34,7 +34,7 @@ The program will show you some exceptions if the file name is incorrect, the fil
 could not be found or the file is not readable/empty.
 
 #### Example:
-![Example](./images/ex1_1.jpg)
+![Example](./resources/images/ex1_1.jpg)
 
 - Word marks the word you are looking for characterized by underlines
 - Misses marks the wrongly guessed words (cannot be guessed again)
