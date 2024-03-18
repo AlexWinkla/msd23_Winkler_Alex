@@ -1,4 +1,4 @@
-s# Hangman
+# Hangman
 ***
 Hangman implemented in Java
 
