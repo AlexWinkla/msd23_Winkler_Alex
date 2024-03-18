@@ -1,6 +1,6 @@
 # Hangman
 ***
-Hangman implemented in Java
+Hangman implemented in Java!
 
 + Hangman is a classic word-guessing game in which the player guesses a hidden word by suggesting letters. 
 The guessing player has a limited number of attempts, which is represented by the drawing of a hanging stick-man.
