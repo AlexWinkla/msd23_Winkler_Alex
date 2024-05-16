@@ -65,3 +65,7 @@ i.e. no special characters or umlauts
 > #### GitHub-Cheatsheet:
 > This file shows how to use Git-Hub, and what commands are used for git
 > * [Exercise2](exercise2.md)
+ 
+> #### First executing Java-File with maven
+> Useful tool for automation and standardization
+> * [Exercise3](exercise3.md)
