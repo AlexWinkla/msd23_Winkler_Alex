@@ -8,13 +8,13 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class CalculatorTest {
 
-//    @Test
-//    public void calculationAddition(){
-//        final double expected = 4;
-//        double actual = new Calculator().add(2, 2);
-//
-//        assertEquals(expected, actual, expected-actual);
-//    }
+    @Test
+    public void calculationAddition(){
+        final double expected = 4;
+        double actual = new Calculator().add(2, 2);
+
+        assertEquals(expected, actual, expected-actual);
+    }
 
     @Test
     public void testFactorial(){
