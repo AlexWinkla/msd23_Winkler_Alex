@@ -69,3 +69,7 @@ i.e. no special characters or umlauts
 > #### First executing Java-File with maven
 > Useful tool for automation and standardization
 > * [Exercise3](exercise3.md)
+
+> #### First JUnit testing
+> automation testing
+> * [Exercise4](exercise4.md)
