@@ -1,9 +1,13 @@
 package at.fhj.msd;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 import java.util.Random;
-import java.util.Scanner;
 
 public class Main {
+
+    protected static final Logger logger = LogManager.getLogger();
 
     public static void main(String[] args) {
         System.out.println("Winkler Alex");
@@ -19,8 +23,14 @@ public class Main {
                 case 2 -> result = new Calculator().multiply(num1, num2);
                 case 3 -> result = new Calculator().divide(num1, num2);
             }
+            if (i == 2)
+                logger.error("Error on multiply result");
+            if (i == 1)
+                logger.info("Here is an info for add method");
             System.out.println("Result: " + result);
         }
+        separatorLine();
+        System.out.println(new Calculator().divide(10, 0));
 
     }
 

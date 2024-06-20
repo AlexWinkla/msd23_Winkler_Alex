@@ -52,3 +52,5 @@ msd_Winkler_Alex.iml
 *.html
 *.pdf
 .idea/
+### Apache log4j Version 2 ###
+*.log

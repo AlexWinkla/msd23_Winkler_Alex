@@ -5,6 +5,7 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertThrows;
 
 public class CalculatorTest {
 
@@ -14,6 +15,22 @@ public class CalculatorTest {
         double actual = new Calculator().add(2, 2);
 
         assertEquals(expected, actual, expected-actual);
+    }
+
+    @Test
+    public void testCalcDiv(){
+        assertThrows(ArithmeticException.class, () -> calculateDivision(5,0));
+    }
+
+    @Test
+    public void testCalcDiv_1(){
+        final double expected = 2;
+        double actual = calculateDivision(20,10);
+        assertEquals(expected, actual, expected - actual);
+    }
+
+    private double calculateDivision(int num1, int num2){
+        return new Calculator().divide(num1, num2);
     }
 
 
