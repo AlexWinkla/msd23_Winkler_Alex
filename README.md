@@ -73,3 +73,7 @@ i.e. no special characters or umlauts
 > #### First JUnit testing
 > automation testing
 > * [Exercise4](exercise4.md)
+
+> #### First Branching in Git
+> used especially for multi-user opertation
+> * [Exercise5](exercise5.md) 
