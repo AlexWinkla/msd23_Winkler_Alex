@@ -6,9 +6,7 @@ public class Calculator {
 
     private static final Logger logger = Main.logger;
 
-    public Calculator(){
-
-    }
+    public Calculator(){}
 
 
     public double add(double number1, double number2){
