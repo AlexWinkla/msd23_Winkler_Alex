@@ -24,3 +24,5 @@ logger.warn(); - Event which might lead to an error
 
 ### durch Initialisieren der log4j2.xml datei und mehrfachen Ausführen der Main-Datei kam dieser Output zufolge, wobei man sieht, ob es ein Error, Fatal oder dergleichen ist
 ![Output Log Datei](/resources/images/ex5_3.png)
+
+
