@@ -75,5 +75,9 @@ i.e. no special characters or umlauts
 > * [Exercise4](exercise4.md)
 
 > #### First Branching in Git
-> used especially for multi-user opertation
+> used especially for multi-user operation
 > * [Exercise5](exercise5.md) 
+ 
+> #### Documentation 
+> documentation is important
+> *  [Exercise6](exercise6.md)
